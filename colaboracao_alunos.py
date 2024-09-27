@@ -7,7 +7,7 @@ while True:
 
             match n:
                 case 1:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nNome: Abner Farias Dos Santos, RA:0000400289220sp")
                 case 3:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 4:

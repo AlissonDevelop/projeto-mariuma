@@ -73,7 +73,7 @@ while True:
                 case 37:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 38:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nNome: Ynaê Ribeiro da Silva, RA:111673598sp")
 
                 case _:
                     print("\n\nNúmero de chamada não encontrado.\n\n")

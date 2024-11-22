@@ -7,15 +7,15 @@ while True:
 
             match n:
                 case 1:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nnome:RA 0001143498210sp")
                 case 3:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nnome:RA 0001103875681sp")
                 case 5:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nnome:RA 0001083358261sp")
                 case 6:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nnome:RA 0001116823445sp")
                 case 8:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nnome:RA 0001212557311sp")
                 case 9:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 10:

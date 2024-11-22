@@ -15,7 +15,7 @@ while True:
                 case 6:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 8:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nNome: Grazielly vitoria - RA: 00001132729774sp")
                 case 9:
                     print("\n\n\n\nNome: João Roberty - RA: 00001093230691sp")
                 case 10:
@@ -33,7 +33,7 @@ while True:
                 case 21:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 24:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nNome: Mariana ferreira - RA: 00001093729971sp")
                 case 26:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 27:
@@ -51,7 +51,7 @@ while True:
                 case 36:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 37:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nNome: Yasmin Gobbi - RA 00001121667843sp")
                 case 38:
                     print("\n\n\n\nNão Participou da Atividade")                
 
